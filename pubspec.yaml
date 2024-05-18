@@ -1,7 +1,7 @@
 name: async_storage_local
-description: "A new Flutter package project."
-version: 0.0.1
-homepage: https://github.com/jeffk388
+description: "Async Storage Local"
+version: 0.0.2
+homepage: https://github.com/jeffk388/async_storage_local
 
 environment:
   sdk: '>=3.3.3 <4.0.0'
